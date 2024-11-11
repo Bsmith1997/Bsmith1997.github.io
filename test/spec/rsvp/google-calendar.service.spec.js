@@ -4,7 +4,7 @@
 describe('Factory: GoogleCalendar', function() {
 
     // load the service's module
-    beforeEach(module('tiffanyAndKelvin'));
+    beforeEach(module('sophiaAndRichard'));
     beforeEach(module('templates'));
 
     var GoogleCalendar;

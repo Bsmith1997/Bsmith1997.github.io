@@ -5,7 +5,7 @@
 
 describe('Controller: RoomBlockModalCtrl', function () {
     // load the controller's module
-    beforeEach(module('tiffanyAndKelvin'));
+    beforeEach(module('sophiaAndRichard'));
 
     var RoomBlockModalCtrl;
 

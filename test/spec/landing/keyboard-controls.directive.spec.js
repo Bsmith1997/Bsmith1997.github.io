@@ -5,7 +5,7 @@
 describe('Directive: keyboardControls', function () {
 
     // load the directive's module
-    beforeEach(module('tiffanyAndKelvin'));
+    beforeEach(module('sophiaAndRichard'));
 
     var element,
         scope,

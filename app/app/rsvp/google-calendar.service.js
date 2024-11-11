@@ -4,7 +4,7 @@
 (function() {
     'use strict';
 
-    angular.module('tiffanyAndKelvin')
+    angular.module('sophiaAndRichard')
         .service('GoogleCalendar', GoogleCalendar);
 
     function GoogleCalendar($q, $window) {

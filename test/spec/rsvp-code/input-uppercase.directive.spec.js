@@ -4,7 +4,7 @@
 'use strict';
 describe('Directive: inputUppercase', function() {
     // load the directive's module
-    beforeEach(module('tiffanyAndKelvin'));
+    beforeEach(module('sophiaAndRichard'));
     beforeEach(module('templates'));
 
     var element,

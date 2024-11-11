@@ -7,7 +7,7 @@
 describe('Factory: RSVP', function () {
 
     // load the service's module
-    beforeEach(module('tiffanyAndKelvin'));
+    beforeEach(module('sophiaAndRichard'));
 
     // instantiate service
     var RSVPFactory;

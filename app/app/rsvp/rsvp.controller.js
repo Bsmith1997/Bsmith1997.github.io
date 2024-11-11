@@ -4,7 +4,7 @@
 (function() {
     'use strict';
 
-    angular.module('tiffanyAndKelvin')
+    angular.module('sophiaAndRichard')
         .controller('RSVPCtrl', RSVPCtrl);
 
     function RSVPCtrl(rsvpData, GoogleCalendar) {

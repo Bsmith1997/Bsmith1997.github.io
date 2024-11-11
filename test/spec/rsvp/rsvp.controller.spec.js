@@ -4,7 +4,7 @@
 'use strict';
 describe('Controller: RSVPCtrl', function () {
     // load the controller's module
-    beforeEach(module('tiffanyAndKelvin'));
+    beforeEach(module('sophiaAndRichard'));
     beforeEach(module('templates'));
 
     var RSVPCtrl,

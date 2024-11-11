@@ -1,6 +1,6 @@
 (function(angular, window) {
     'use strict';
-    angular.module('tiffanyAndKelvin')
+    angular.module('sophiaAndRichard')
         .controller('LandingCtrl', LandingCtrl);
 
     function LandingCtrl($scope, GoogleMapInit, $timeout, $uibModal) {

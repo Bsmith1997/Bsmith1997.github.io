@@ -4,7 +4,7 @@
 (function() {
     'use strict';
 
-    angular.module('tiffanyAndKelvin')
+    angular.module('sophiaAndRichard')
         .controller('GalleryModalCtrl', GalleryModalCtrl);
 
     function GalleryModalCtrl($uibModalInstance, startIdx, images, $timeout) {

@@ -4,7 +4,7 @@
 (function(firebase) {
     'use strict';
 
-    angular.module('tiffanyAndKelvin')
+    angular.module('sophiaAndRichard')
         .factory('RSVPFactory', RSVPFactory);
 
     function RSVPFactory($q, FirebaseFactory) {
