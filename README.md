@@ -1,6 +1,6 @@
-# sophiaandrichardwedding
+# sophiaandrichardweddingwedding
 
-This is my [wedding website](https://sophiaAndRichard.firebaseapp.com) with an RSVP system using Firebase's realtime database.
+This is my [wedding website](https://sophiaandrichardwedding.firebaseapp.com) with an RSVP system using Firebase's realtime database.
 
 If you want to use it for your own wedding, go ahead. Just change the pictures please. Otherwise it will be weird.
 
@@ -71,4 +71,4 @@ This will create a build using gulp in the dist folder, and then deploy it to Fi
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/kelvinatorr/sophiaAndRichard/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/kelvinatorr/sophiaandrichardwedding/blob/master/LICENSE) file for details

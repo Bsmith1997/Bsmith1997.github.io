@@ -4,7 +4,7 @@
 (function() {
     'use strict';
 
-    angular.module('sophiaAndRichard')
+    angular.module('sophiaandrichardwedding')
         .factory('FirebaseFactory', FirebaseFactory);
 
     function FirebaseFactory() {
