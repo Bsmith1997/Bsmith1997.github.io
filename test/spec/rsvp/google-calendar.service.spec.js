@@ -80,7 +80,7 @@ describe('Factory: GoogleCalendar', function() {
 
         it('should NOT call gapi.client.calendar.events.insert method when an item matching the wedding summary exists', function() {
             calendarItems = [
-                {summary: 'Tiffany and Kelvin Wedding'}
+                {summary: 'Sophia and Richard Wedding'}
             ];
             GoogleCalendar.setCalendarEvent();
             rootScope.$apply();

@@ -1,4 +1,4 @@
-# tiffanyandkelvin
+# sophiaandrichardwedding
 
 This is my [wedding website](https://tiffanyandkelvin.firebaseapp.com) with an RSVP system using Firebase's realtime database.
 

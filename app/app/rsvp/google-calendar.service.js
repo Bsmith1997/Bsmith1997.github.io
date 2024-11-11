@@ -26,7 +26,7 @@
             var defer = $q.defer();
 
             var setEvent = function() {
-                var summary = 'Tiffany and Kelvin Wedding';
+                var summary = 'Sophia and Richard Wedding';
                 // TODO: check if event is already there
                 var request = gapi.client.calendar.events.list({
                     'calendarId': 'primary',
